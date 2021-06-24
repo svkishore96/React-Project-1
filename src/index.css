@@ -1,0 +1,16 @@
+.padding50{
+  padding:50px;
+}
+body{
+  padding-top:65px;
+}
+
+.height500{min-height:500px; margin-top:20px;margin-bottom:20px;}
+
+.mybg-info{
+	background-color: darkblue !important;
+}
+
+.height200{
+  height:170px !important;
+}
